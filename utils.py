@@ -10,9 +10,6 @@ def convertir_tamano(bytes):
 def timestamp_a_fecha(timestamp):
     return datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d %H:%M:%S")
 
-def ruta_valida(path):
-    return os.path.exists(path) and os.path.isdir(path)
-
 def generar_encabezado_log(titulo="Registro"):
     ahora = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     return f"\n{'=' * 50}\n📅 {titulo} - {ahora}\n"

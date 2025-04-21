@@ -1,29 +1,29 @@
 
 ==================================================
-📅 Organización de archivos - 2025-04-21 16:53:07
-[SIMULACIÓN] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Notas\Nuevo documento de texto (2).txt'
-[SIMULACIÓN] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Notas\Nuevo documento de texto.txt'
+📅 Movimiento de duplicados - 2025-04-21 18:10:20
+[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo documento de texto (2).txt' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Duplicados\Nuevo documento de texto (2).txt' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt')
+[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo documento de texto.txt' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Duplicados\Nuevo documento de texto.txt' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt')
+[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo Texto OpenDocument.docx' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Duplicados\Nuevo Texto OpenDocument.docx' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt')
 ==================================================
 
 ==================================================
-📅 Organización de archivos - 2025-04-21 16:53:49
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\149fc77b1f039b058cbf6c3c1d108430.jpg' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\149fc77b1f039b058cbf6c3c1d108430.jpg'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\2fcd497522335c1d716284a181c4ea09.jpg' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\2fcd497522335c1d716284a181c4ea09.jpg'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\cj.jpg' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\cj.jpg'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\JoaquinMoyanoCV.pdf' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\JoaquinMoyanoCV.pdf'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\JoaquinMoyanoCV_EN.pdf' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\JoaquinMoyanoCV_EN.pdf'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\LogeoCliente.jpg' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\LogeoCliente.jpg'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\loginusuario.png' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\loginusuario.png'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\loginVendedor.png' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\loginVendedor.png'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\LOGO.png' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\LOGO.png'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Mono.jpg' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\Mono.jpg'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\MoyanoJoaquinCP.pdf' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\MoyanoJoaquinCP.pdf'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo Archivo WinRAR.rar' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Comprimidos\Nuevo Archivo WinRAR.rar'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo documento de texto (2).txt'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo documento de texto.txt'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo Texto OpenDocument.docx' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo Texto OpenDocument.docx'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Sapo.jpg' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\Sapo.jpg'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\VendedorTabla2.png' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\VendedorTabla2.png'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\VentasTabla.png' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\VentasTabla.png'
-[MOVIDO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\visor.png' → 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\visor.png'
+📅 Eliminación de duplicados - 2025-04-21 18:11:05
+[ELIMINADO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt')
+[ELIMINADO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo Texto OpenDocument.docx' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt')
+==================================================
+
+==================================================
+📅 Eliminación de duplicados - 2025-04-21 18:18:51
+[ELIMINADO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto.txt' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt')
+[ELIMINADO] 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Documentos\Nuevo documento de texto (2).txt' (duplicado de 'C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt')
+==================================================
+
+==================================================
+📅 Eliminación de duplicados - 2025-04-21 18:30:27
+[ELIMINADO] 'tests/temp\archivo2.txt' (duplicado de 'tests/temp\archivo1.txt')
+==================================================
+
+==================================================
+📅 Movimiento de duplicados - 2025-04-21 18:30:27
+[MOVIDO] 'tests/temp\archivo2.txt' → 'tests/temp\Duplicados\archivo2.txt' (duplicado de 'tests/temp\archivo1.txt')
 ==================================================
