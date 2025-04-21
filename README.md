@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Características principales
+##  Características principales
 
 - ✅ Organización automática de archivos por tipo (documentos, imágenes, videos, etc.)
 - 🎯 Filtros por palabra clave y fecha de modificación
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Tecnologías usadas
+##  Tecnologías usadas
 
 - Python 3
 - Módulos estándar: `os`, `shutil`, `datetime`, `json`
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Cómo usarlo
+##  Cómo usarlo
 
 1. Cloná el repositorio:
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🧪 Modo simulación
+##  Modo simulación
 
 Antes de mover archivos realmente, podés usar el **modo simulación** para ver qué ocurriría:
 
@@ -55,7 +55,7 @@ Antes de mover archivos realmente, podés usar el **modo simulación** para ver 
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 Asistente-de-Limpieza-Digital/
@@ -78,10 +78,10 @@ Asistente-de-Limpieza-Digital/
 
 ---
 
-## 🧔 Autor
+##  Autor
 
 **Joaquín Moyano**  
-📌 [LinkedIn](https://www.linkedin.com/in/joaquin-moyano)  
+📌 [LinkedIn](https://www.linkedin.com/in/joaquin-moyano-cba)  
 💻 Desarrollador en formación, apasionado por la automatización y la creación de soluciones simples pero efectivas.
 
 ---
