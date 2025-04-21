@@ -1,0 +1,5 @@
+{
+  "Diseño": [".psd", ".ai", ".svg"],
+  "Notas": [".md", ".rtf", ".txt"],
+  "Bases de datos": [".sql", ".db"]
+}
