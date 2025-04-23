@@ -27,3 +27,29 @@
 📅 Movimiento de duplicados - 2025-04-21 18:30:27
 [MOVIDO] 'tests/temp\archivo2.txt' → 'tests/temp\Duplicados\archivo2.txt' (duplicado de 'tests/temp\archivo1.txt')
 ==================================================
+
+==================================================
+📅 Limpieza de archivos basura y vacíos - 2025-04-22 19:46:07
+[ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Nuevo documento de texto (2).txt
+==================================================
+
+==================================================
+📅 Limpieza de archivos basura y vacíos - 2025-04-22 21:23:25
+==================================================
+
+==================================================
+📅 Limpieza Total Automática - 2025-04-22 21:23:25
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Fu-g4HWWYAM3JvI.jfif
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\LOGO.png
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\Mono.jpg
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\loginusuario.png
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\loginVendedor.png
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\VentasTabla.png
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\VendedorTabla2.png
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\LogeoCliente.jpg
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\visor.png
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\2fcd497522335c1d716284a181c4ea09.jpg
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\Sapo.jpg
+[GRANDE/ANTIGUO ELIMINADO] C:\Users\joamo\Desktop\games\Nueva carpeta (2)\Imágenes\cj.jpg
+[RESUMEN] Espacio recuperado: 3.41 MB
+==================================================

@@ -1,0 +1,6 @@
+C:\Windows
+C:\Program Files
+C:\Program Files (x86)
+C:\Users\joamo\AppData
+C:\Users\joamo\Documents\Backups
+C:\Users\joamo\Documents\GitHub\Asistente-de-Limpieza-Digital\__pycache__
